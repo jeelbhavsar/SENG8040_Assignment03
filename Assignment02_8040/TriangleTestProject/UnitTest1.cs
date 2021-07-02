@@ -15,5 +15,13 @@ namespace TriangleTestProject
             a = myObj.Analyze(-5, 5, 5);
             Assert.AreEqual(a, "Can not form Triangle.");
         }
+        [Test]
+        public void NegativeTwoSide()
+        {
+            string a;
+            a = myObj.Analyze(-10, -10, 5);
+            Assert.AreEqual(a, "Can not form Triangle.");
+        }
+
     }
 }
