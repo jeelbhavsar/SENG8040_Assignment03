@@ -64,5 +64,12 @@ namespace TriangleTestProject
             a = myObj.Analyze(10, 10, 10);
             Assert.AreEqual(a, "This is an equilateral triangle.");
         }
+        [Test]
+        public void Scalene()
+        {
+            string a;
+            a = myObj.Analyse(15, 14, 6);
+            Assert.AreEqual(a, "This is a scalene triangle.");
+        }
     }
 }
