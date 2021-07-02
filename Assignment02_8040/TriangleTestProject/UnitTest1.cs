@@ -50,5 +50,12 @@ namespace TriangleTestProject
             a = myObj.Analyze(0, 0, 0);
             Assert.AreEqual(a, "Can not form Triangle.");
         }
+        [Test]
+        public void Isosceles()
+        {
+            string a;
+            a = myObj.Analyse(5, 10, 10);
+            Assert.AreEqual(a, "This is an isosceles triangle.");
+        }
     }
 }
