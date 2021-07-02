@@ -54,8 +54,15 @@ namespace TriangleTestProject
         public void Isosceles()
         {
             string a;
-            a = myObj.Analyse(5, 10, 10);
+            a = myObj.Analyze(5, 10, 10);
             Assert.AreEqual(a, "This is an isosceles triangle.");
+        }
+        [Test]
+        public void Equilateral()
+        {
+            string a;
+            a = myObj.Analyze(10, 10, 10);
+            Assert.AreEqual(a, "This is an equilateral triangle.");
         }
     }
 }
