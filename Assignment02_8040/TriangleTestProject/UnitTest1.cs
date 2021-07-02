@@ -29,6 +29,12 @@ namespace TriangleTestProject
             a = myObj.Analyze(15, 15, -10);
             Assert.AreEqual(a, "Can not form Triangle.");
         }
-
+        [Test]
+        public void ZeroOneSide()
+        {
+            string a;
+            a = myObj.Analyse(0, 10, 10);
+            Assert.AreEqual(a, "Can not form Triangle.");
+        }
     }
 }
