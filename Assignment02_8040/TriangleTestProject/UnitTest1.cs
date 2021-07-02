@@ -40,7 +40,14 @@ namespace TriangleTestProject
         public void ZeroTwoSide()
         {
             string a;
-            a = myObj.Analyse(0, 0, 10);
+            a = myObj.Analyze(0, 0, 10);
+            Assert.AreEqual(a, "Can not form Triangle.");
+        }
+        [Test]
+        public void ZeroThreeSide()
+        {
+            string a;
+            a = myObj.Analyze(0, 0, 0);
             Assert.AreEqual(a, "Can not form Triangle.");
         }
     }
