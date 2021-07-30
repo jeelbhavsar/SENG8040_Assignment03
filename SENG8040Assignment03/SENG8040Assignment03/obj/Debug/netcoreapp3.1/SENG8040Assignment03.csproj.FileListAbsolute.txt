@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\bin\Debug\netcoreapp3.1\SENG8040Assignment03.exe
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\bin\Debug\netcoreapp3.1\SENG8040Assignment03.deps.json
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\bin\Debug\netcoreapp3.1\SENG8040Assignment03.runtimeconfig.json
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\bin\Debug\netcoreapp3.1\SENG8040Assignment03.runtimeconfig.dev.json
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\bin\Debug\netcoreapp3.1\SENG8040Assignment03.dll
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\bin\Debug\netcoreapp3.1\SENG8040Assignment03.pdb
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\obj\Debug\netcoreapp3.1\SENG8040Assignment03.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\obj\Debug\netcoreapp3.1\SENG8040Assignment03.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\obj\Debug\netcoreapp3.1\SENG8040Assignment03.AssemblyInfo.cs
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\obj\Debug\netcoreapp3.1\SENG8040Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\obj\Debug\netcoreapp3.1\SENG8040Assignment03.dll
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\obj\Debug\netcoreapp3.1\SENG8040Assignment03.pdb
+C:\Users\dell\source\repos\SENG8040Assignment03\SENG8040Assignment03\obj\Debug\netcoreapp3.1\SENG8040Assignment03.genruntimeconfig.cache
