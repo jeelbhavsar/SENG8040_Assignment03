@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SENG8040Assignment03", "SENG8040Assignment03\SENG8040Assignment03.csproj", "{120F6CD3-AED1-4F75-9E57-09EBEC60D1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcTestAssg_3", "CalcTestAssg_3\CalcTestAssg_3.csproj", "{DF0109D0-109A-47DF-A248-9DE0D11D1862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{120F6CD3-AED1-4F75-9E57-09EBEC60D1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120F6CD3-AED1-4F75-9E57-09EBEC60D1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120F6CD3-AED1-4F75-9E57-09EBEC60D1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120F6CD3-AED1-4F75-9E57-09EBEC60D1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0109D0-109A-47DF-A248-9DE0D11D1862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0109D0-109A-47DF-A248-9DE0D11D1862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0109D0-109A-47DF-A248-9DE0D11D1862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0109D0-109A-47DF-A248-9DE0D11D1862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6061FEC4-E295-4A25-826A-69A011235BE3}
+	EndGlobalSection
+EndGlobal
